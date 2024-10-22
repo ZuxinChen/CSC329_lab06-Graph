@@ -66,6 +66,17 @@ public class Graph {
 
     }
 
+    /**
+     * boolean hasEdge(int source, int destination)
+     * This method should return true if the graph contains an undirected edge from source to destination (or
+     * vice versa since the edge is undirected).
+     * Write code to test this method in main.
+     */
+
+    public boolean hasEdge(int source, int destination){
+        return false;
+    }
+
 
 
 
